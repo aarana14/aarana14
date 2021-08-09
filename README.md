@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 <p align="center">Everything here is composed of projects I have found interesting or fun to create.</p>
-<p align="center">Feel free to message me on Discord [@XBYT#0365](https://discordapp.com/users/297150910830739456/)</p>
+<p align="center">Feel free to message me on Discord <a href="https://discordapp.com/users/297150910830739456/">@XBYT#0365</a></p>
 <br>
 
 <p align="center">
@@ -24,3 +24,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarana14&repo=CurrencyExchange&theme=dark">
   </a>
 </p>
+<br>
