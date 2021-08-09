@@ -12,8 +12,8 @@
 <h2 align="center">Favorite Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/aarana14/AutoHourIDLogger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarana14&repo=AutoHourIDLogger&theme=dark"/>
+  <a href="https://github.com/aarana14/FacialRecognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarana14&repo=FacialRecognition&theme=dark"/>
   </a>
   <a href="https://github.com/aarana14/LocalChatApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarana14&repo=LocalChatApp&theme=dark"/>
