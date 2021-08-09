@@ -2,10 +2,10 @@
 <p align="center">Everything here is composed of projects I have found interesting or fun to create.</p>
 <p align="center">Feel free to message me on Discord <a href="https://discordapp.com/users/297150910830739456/">@XBYT#0365</a></p>
 <br>
-
+<!-- 
 <p align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=aarana14&hide=prs,issues&count_private=true&show_icons=true&theme=dark"/></a>
- </p>
+ </p> -->
 
 <br/>
 <h2 align="center">Latest Projects</h2>
