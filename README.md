@@ -9,7 +9,7 @@
 <br/>
 -->
 
-<h2 align="center">Latest Projects</h2>
+<h2 align="center">Favorite Projects</h2>
 
 <p align="center">
   <a href="https://github.com/aarana14/AutoHourIDLogger">
