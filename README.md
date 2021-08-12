@@ -26,4 +26,12 @@
   </a>
 </p>
 
+<h2 align="center">Favorite Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/aarana14/DIY-Password-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarana14&repo=DIY-Password-Manager&theme=dark"/>
+  </a>
+</p>
+
 <br>
